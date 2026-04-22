@@ -1,4 +1,6 @@
 # Persistent ID [1.0.0]
+_Please 🌟 my repo if mod worked great for you!_
+
 ### Description
 This is a modification for the game "Data Center". It overwrites the base game unique ID generation and provides GUID as unique IDs instead. This has been tested personally and no problems have yet to occur.
 
