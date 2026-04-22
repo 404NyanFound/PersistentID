@@ -9,7 +9,7 @@ This mod requires Melon Loader to be installed with Data Center.
 ## Recommendation
 It is recommended you start new save when playing with this mod. If playing with existing save, MAKE A BACKUP! This mod WILL OVERWRITE YOUR SAVE DATA and attempt to remap all existing servers, switches & patch panels. If you experience duplicate or weirdness after loading your save with the mod, then your save is already victim of duplication issues and can not be saved easily.
 
-Save Location: "%AppData%/LocalLow/WASEKU/Saves"
+Save Location: "%AppData%/LocalLow/WASEKU/Data Center/saves"
 
 Again, strongly recommended to start new save for full effect! Use on existing saves at own risk!
 
