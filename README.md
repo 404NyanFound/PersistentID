@@ -17,7 +17,7 @@ You have been notified and warned!
 
 ### How To Install
 1. Install MelonLoader To Data Center
-2. Download latest mod .dll from https://github.com/404NyanFound/Persistent-ID/releases/tag/Release
+2. Download latest mod .dll from https://github.com/404NyanFound/PersistentID/releases/tag/Release
 3. Copy to "~/Data Center/Mods"
 4. Play Game
 
